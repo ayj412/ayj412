@@ -8,7 +8,7 @@
 
 ## 🐍 Github Contributions
 
-![snake gif](https://github.com/ayj412/ayj412/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ayj412/ayj412/blob/output/github-contribution-grid-snake.svg)
 
 </h1>
 
