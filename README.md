@@ -12,14 +12,14 @@
 
 </h1>
 
-## <picture ><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture ><img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExend2Nm5jbmlkajJmOTR6b3h5cjQ4MjhhdGd6ejFmYjFuNmZmNnh0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width = 40px></picture> **About me**
 
 <br>
 <h3 align="center">A passionate Self-taught Full-stack web developer</h3>
 <h3 align="center">Playing Algorithm at spare time</h3>
 <h3 align="center">Currently learning Web Development by Self</h3>
 
-<br><br>
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"/><b> Tech Stack</b>
 
@@ -130,6 +130,23 @@
   />&nbsp
 </p>
 
+<h3 align="center">📊 Monitoring & Logging</h3>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"
+  />&nbsp
+  <img
+    src="https://img.shields.io/badge/Logstash-F2BD1D?style=flat-square&logo=logstash&logoColor=white"
+  />&nbsp
+  <img
+    src="https://img.shields.io/badge/Kibana-E8478B?style=flat-square&logo=kibana&logoColor=white"
+  />&nbsp
+  <img
+    src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazon&logoColor=white"
+  />&nbsp
+</p>
+
 <h3 align="center">☁️ Teamwork</h3>
 
 <p align="center">
@@ -169,4 +186,4 @@
 
 Credit: [YJ](https://github.com/ayj412)
 
-Last Edited on: 05/14/2023
+Last Edited on: 12/11/2024
