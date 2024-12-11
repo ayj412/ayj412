@@ -166,8 +166,6 @@
 ---
 
 <br>
-![ayj412's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayj412&count_private=true)
-
 
 Credit: [YJ](https://github.com/ayj412)
 
